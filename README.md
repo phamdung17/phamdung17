@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phamdung17
+- 👋 Hi, I’m PHẠM DŨNG
 - 👀 I’m interested in Game
 - 🌱 I’m currently learning HUTECH
 - 💞️ I’m looking to collaborate on ...
